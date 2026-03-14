@@ -107,6 +107,31 @@ Pergunta: {msg}
 
 st.title("💳 CredIA — Assistente Inteligente de Crédito")
 
+st.subheader("📊 Dashboard Financeiro do Cliente")
+
+col1, col2, col3, col4 = st.columns(4)
+
+col1.metric(
+    "Score de Crédito",
+    perfil["score_credito"]
+)
+
+col2.metric(
+    "Renda Mensal",
+    f'R$ {perfil["renda_mensal"]}'
+)
+
+col3.metric(
+    "Comprometimento",
+    f'{perfil["comprometimento_renda"]*100:.0f}%'
+)
+
+col4.metric(
+    "Atrasos",
+    perfil["historico_atrasos"]
+)
+
+
 st.write("Pergunte sobre seu perfil financeiro, crédito ou empréstimos.")
 
 if pergunta := st.chat_input("Digite sua pergunta..."):
