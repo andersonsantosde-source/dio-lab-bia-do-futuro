@@ -1,0 +1,5 @@
+cliente_id,nome,idade,renda_mensal,score_credito,tipo_emprego,tempo_emprego_anos
+1,Carlos Silva,34,8500,720,CLT,6
+2,Ana Oliveira,28,4200,640,CLT,3
+3,Ricardo Mendes,41,12000,780,Empresario,10
+4,Juliana Costa,25,3000,590,Autonomo,1

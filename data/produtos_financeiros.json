@@ -1,0 +1,52 @@
+[
+  {
+    "nome": "Empréstimo Consignado",
+    "categoria": "emprestimo",
+    "risco": "baixo",
+    "taxa_juros": "1.8% ao mês",
+    "valor_minimo": 500,
+    "valor_maximo": 50000,
+    "prazo_meses": 72,
+    "indicado_para": "Aposentados, pensionistas ou funcionários públicos com desconto em folha"
+  },
+  {
+    "nome": "Empréstimo Pessoal",
+    "categoria": "emprestimo",
+    "risco": "medio",
+    "taxa_juros": "3.5% ao mês",
+    "valor_minimo": 1000,
+    "valor_maximo": 30000,
+    "prazo_meses": 48,
+    "indicado_para": "Clientes com score médio e renda comprovada"
+  },
+  {
+    "nome": "Empréstimo com Garantia de Veículo",
+    "categoria": "emprestimo_garantia",
+    "risco": "baixo",
+    "taxa_juros": "1.5% ao mês",
+    "valor_minimo": 5000,
+    "valor_maximo": 100000,
+    "prazo_meses": 60,
+    "indicado_para": "Clientes que possuem veículo quitado e desejam taxas menores"
+  },
+  {
+    "nome": "Empréstimo com Garantia de Imóvel",
+    "categoria": "emprestimo_garantia",
+    "risco": "baixo",
+    "taxa_juros": "1.2% ao mês",
+    "valor_minimo": 20000,
+    "valor_maximo": 500000,
+    "prazo_meses": 180,
+    "indicado_para": "Clientes com imóvel quitado que precisam de crédito alto"
+  },
+  {
+    "nome": "Microcrédito Pessoal",
+    "categoria": "microcredito",
+    "risco": "alto",
+    "taxa_juros": "4.5% ao mês",
+    "valor_minimo": 300,
+    "valor_maximo": 5000,
+    "prazo_meses": 24,
+    "indicado_para": "Clientes com score baixo ou histórico de crédito limitado"
+  }
+]

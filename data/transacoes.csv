@@ -1,0 +1,24 @@
+cliente_id,data,descricao,categoria,valor,tipo
+1,2025-10-01,Salário,receita,8500.00,entrada
+1,2025-10-02,Aluguel,moradia,2200.00,saida
+1,2025-10-03,Supermercado,alimentacao,620.00,saida
+1,2025-10-05,Netflix,lazer,55.90,saida
+1,2025-10-10,Restaurante,alimentacao,180.00,saida
+
+2,2025-10-01,Salário,receita,4200.00,entrada
+2,2025-10-03,Supermercado,alimentacao,480.00,saida
+2,2025-10-07,Farmácia,saude,120.00,saida
+2,2025-10-12,Uber,transporte,65.00,saida
+2,2025-10-15,Conta de Luz,moradia,150.00,saida
+
+3,2025-10-01,Receita Empresa,receita,12000.00,entrada
+3,2025-10-03,Supermercado,alimentacao,800.00,saida
+3,2025-10-05,Restaurante,lazer,350.00,saida
+3,2025-10-20,Academia,saude,120.00,saida
+3,2025-10-25,Combustível,transporte,500.00,saida
+
+4,2025-10-01,Trabalho Freelance,receita,3000.00,entrada
+4,2025-10-03,Supermercado,alimentacao,420.00,saida
+4,2025-10-05,Netflix,lazer,55.90,saida
+4,2025-10-12,Uber,transporte,70.00,saida
+4,2025-10-25,Combustível,transporte,180.00,saida

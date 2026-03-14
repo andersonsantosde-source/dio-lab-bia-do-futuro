@@ -1,0 +1,49 @@
+{
+  "clientes": [
+    {
+        "nome": "Carlos Silva",
+        "idade": 34,
+        "renda_mensal": 8500,
+        "score_credito": 720,
+        "historico_atrasos": 0,
+        "comprometimento_renda": 0.25,
+        "tempo_emprego_anos": 6,
+        "tipo_emprego": "CLT",
+        "valor_solicitado": 20000
+    },
+    {
+        "nome": "Ana Oliveira",
+        "idade": 28,
+        "renda_mensal": 4200,
+        "score_credito": 640,
+        "historico_atrasos": 1,
+        "comprometimento_renda": 0.40,
+        "tempo_emprego_anos": 3,
+        "tipo_emprego": "CLT",
+        "valor_solicitado": 10000
+    },
+    {
+        "nome": "Ricardo Mendes",
+        "idade": 41,
+        "renda_mensal": 12000,
+        "score_credito": 780,
+        "historico_atrasos": 0,
+        "comprometimento_renda": 0.18,
+        "tempo_emprego_anos": 10,
+        "tipo_emprego": "Empresário",
+        "valor_solicitado": 50000
+    },
+    {
+        "nome": "Juliana Costa",
+        "idade": 25,
+        "renda_mensal": 3000,
+        "score_credito": 590,
+        "historico_atrasos": 2,
+        "comprometimento_renda": 0.55,
+        "tempo_emprego_anos": 1,
+        "tipo_emprego": "Autônomo",
+        "valor_solicitado": 5000
+    }
+]
+
+}
