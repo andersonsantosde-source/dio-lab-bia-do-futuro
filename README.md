@@ -141,6 +141,7 @@ Projeto desenvolvido por **Anderson Santos**.
 # 📄 pitch
 - Link video youtube do NotebookLM : https://www.youtube.com/watch?v=KQv5_BEOZDM
 - Link apresentação pessoal: https://www.youtube.com/shorts/d_VFByTiYWo
+- Link notebookLM explicativo: https://youtu.be/HR3UKnylnS0
   
 
 
